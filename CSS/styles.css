@@ -1,0 +1,85 @@
+body{
+    background: url(https://img.freepik.com/foto-gratis/nube-blanca-cielo-azul_74190-7709.jpg?size=626&ext=jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+h1{
+    background-color: azure;
+    color: black;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Bangers', cursive;
+}
+
+#inputid{
+    font-family: 'Indie Flower', cursive;
+    position: relative;
+    left: 35%;
+    font-size: 25px;
+    background-color: rgb(173, 159, 159);
+    color: black;
+}
+
+#BSearch{
+    font-family: 'Merriweather', serif;
+    position: relative;
+    left: 35%;
+    font-size: 25px;
+    background-color: rgb(247, 152, 207);
+    color: black;
+    margin-bottom: 10px;
+}
+
+.botones{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    background-color: burlywood;
+    color: black;
+    margin-top: 5px;
+}
+
+#BM{
+    position: relative;
+    left:20%;
+    width: 20%;
+}
+
+#BA{
+    position: relative;
+    left: 20%;
+    width: 20%;
+}
+
+#BN{
+    position: relative;
+    left: 20%;
+    width: 20%;
+}
+
+.lista{
+    margin-left: 35%;
+    font-size: 30px;
+    color: rgb(18, 6, 19);
+    font-family: 'Bangers', cursive;
+}
+
+#buscando{
+    margin-left:35%;
+    font-size: 45px;
+    color: black;
+    font-family: 'Bangers', cursive;
+}
+
+footer{
+    background-color: rgb(12, 12, 54);
+    color: white;
+    font-size: 30px;
+    margin-top: 10%;
+    text-align: center;
+}
+
